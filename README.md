@@ -1,6 +1,6 @@
 # awesome-django-rest-framework
 
-** List of sites using django rest framework
+** List of sites using django rest framework **
 
 - https://github.com/djangopackages/djangopackages
 - https://github.com/rtfd/readthedocs.org
